@@ -1,0 +1,13 @@
+{
+  "name": "to-do-package",
+  "version": "1.0.0",
+  "description": "a test package for my to-do list",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2",
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}
